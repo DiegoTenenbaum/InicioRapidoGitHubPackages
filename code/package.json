@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DiegoTenenbaum/InicioRapidoGitHubPackages/issues"
   },
-  "homepage": "https://github.com/DiegoTenenbaum/InicioRapidoGitHubPackages#readme"
+  "homepage": "https://github.com/DiegoTenenbaum/InicioRapidoGitHubPackages#readme",
+  "publishConfig": {
+    "DiegoTenenbaum:registry": "https://npm.pkg.github.com"
+  }
 }
